@@ -1,16 +1,64 @@
-# React + Vite
+# Narayan Company Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Official founder portfolio and AI innovation website of Narayan Ranabhat.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Production:
+https://narayan-company-website-g8s9ebatu-narayan-ranabhat-s-projects.vercel.app
 
-## React Compiler
+GitHub:
+https://github.com/Narayan88-ctrl/narayan-company-website
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This website represents the projects, vision, and AI systems being developed by Narayan Ranabhat from Switzerland.
+
+The platform showcases multiple AI startup concepts and innovation directions including:
+
+- N-Builder — AI Startup Factory
+- Sugar Retina AI — Healthcare AI
+- Swissify — Trustworthy AI Infrastructure
+- Robot Brain — Industrial & Robotics AI
+- Gymi Math AI — Education AI
+- BioOps AI — DayOne healthcare innovation concept
+
+---
+
+## Tech Stack
+
+Frontend:
+- React
+- Vite
+- JavaScript
+- CSS
+
+Deployment:
+- Vercel
+
+Version Control:
+- GitHub
+
+---
+
+## Features
+
+- Modern futuristic UI
+- Responsive design
+- Founder portfolio
+- AI startup showcase
+- Healthcare AI positioning
+- Swiss innovation branding
+- Glassmorphism-inspired design
+- Fast Vite frontend
+
+---
+
+## Local Development
+
+Clone repository:
+
+```bash
+git clone https://github.com/Narayan88-ctrl/narayan-company-website.git
