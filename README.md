@@ -1,64 +1,61 @@
-# Narayan Company Website
+# Swissify AI
 
-Official founder portfolio and AI innovation website of Narayan Ranabhat.
+Swissify AI is a Swiss-focused AI innovation initiative building trustworthy intelligent systems across healthcare, operations, workflow automation, and future enterprise infrastructure.
 
-## Live Website
+## Vision
 
-Production:
-https://narayan-company-website-g8s9ebatu-narayan-ranabhat-s-projects.vercel.app
-
-GitHub:
-https://github.com/Narayan88-ctrl/narayan-company-website
+Building practical and trustworthy AI systems aligned with Swiss innovation, healthcare transformation, and intelligent operational workflows.
 
 ---
 
-## About
+## Core Directions
 
-This website represents the projects, vision, and AI systems being developed by Narayan Ranabhat from Switzerland.
+### BioOps AI
+AI-assisted healthcare operations and workflow intelligence platform inspired by real clinical coordination and openEHR-oriented innovation challenges.
 
-The platform showcases multiple AI startup concepts and innovation directions including:
+### Healthcare AI
+Clinical AI systems focused on:
+- workflow intelligence
+- explainable AI
+- triage support
+- healthcare automation
+- operational visibility
 
-- N-Builder — AI Startup Factory
-- Sugar Retina AI — Healthcare AI
-- Swissify — Trustworthy AI Infrastructure
-- Robot Brain — Industrial & Robotics AI
-- Gymi Math AI — Education AI
-- BioOps AI — DayOne healthcare innovation concept
+### Enterprise AI
+AI copilots and workflow systems for:
+- operations
+- procurement
+- organizational intelligence
+- process automation
 
 ---
 
 ## Tech Stack
 
-Frontend:
 - React
 - Vite
 - JavaScript
-- CSS
-
-Deployment:
-- Vercel
-
-Version Control:
-- GitHub
+- AI-assisted workflows
+- Vercel deployment
 
 ---
 
 ## Features
 
-- Modern futuristic UI
-- Responsive design
-- Founder portfolio
-- AI startup showcase
-- Healthcare AI positioning
-- Swiss innovation branding
-- Glassmorphism-inspired design
-- Fast Vite frontend
+- Modern AI product architecture
+- Swiss innovation positioning
+- Healthcare workflow concepts
+- Intelligent operations systems
+- Responsive frontend
+- Glassmorphism-inspired UI
 
 ---
 
-## Local Development
+## Author
 
-Clone repository:
+Narayan Ranabhat
 
-```bash
-git clone https://github.com/Narayan88-ctrl/narayan-company-website.git
+Switzerland
+
+GitHub:
+https://github.com/Narayan88-ctrl
